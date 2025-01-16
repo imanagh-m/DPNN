@@ -7,3 +7,7 @@ Despite these advancements, experimental approaches to evaluate and optimize pho
 The DPNN model utilizes nine key input parameters for training and has demonstrated exceptional predictive performance, achieving a coefficient of determination (R²) of 0.943. Comparative analysis against alternative models—including linear regression, random forest, XGBoost, and LightGBM—further highlights DPNN's superior precision and reliability, making it a valuable tool for advancing wastewater treatment research and applications.
 
 ![DPNN Model Architecture](model.png)
+
+the model training method, with the y-axis representing network loss and the x-axis indicating training repetitions over time.
+
+![train/eval losses](losses.png)
